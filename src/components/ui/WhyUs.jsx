@@ -11,8 +11,7 @@ function WhyUs() {
             <div class="why-box">
               <h3>Why Choose Yummy?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              Our delicious food and welcoming atmosphere, we also pride ourselves on our exceptional service. Our staff is highly trained and dedicated to providing each and every guest with a memorable dining experience. From the moment you walk in the door, we strive to make you feel comfortable and taken care of.
               </p>
               <div class="text-center">
                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -26,24 +25,24 @@ function WhyUs() {
               <div class="col-xl-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <i class="bi bi-clipboard-data"></i>
-                  <h4>Corporis voluptates officia eiusmod</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <h4> Sustainability and eco-friendly</h4>
+                  <p>We source our ingredients from local farms and suppliers whenever possible to reduce our carbon footprint and support our community.</p>
                 </div>
               </div>
 
               <div class="col-xl-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <i class="bi bi-gem"></i>
-                  <h4>Ullamco laboris ladore pan</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4>Affordable luxury</h4>
+                  <p>At our restaurant, we believe that dining out should be an affordable luxury, which is why we offer competitive prices without compromising on quality. </p>
                 </div>
               </div>
 
               <div class="col-xl-4" data-aos="fade-up" data-aos-delay="400">
                 <div class="icon-box d-flex flex-column justify-content-center align-items-center">
                   <i class="bi bi-inboxes"></i>
-                  <h4>Labore consequatur incidid dolore</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <h4>Delicious food</h4>
+                  <p> We also pride ourselves on our exceptional service. Our staff is highly trained and dedicated to providing each and every guest with a memorable dining experience.</p>
                 </div>
               </div>
 

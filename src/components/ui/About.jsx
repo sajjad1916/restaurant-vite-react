@@ -22,17 +22,15 @@ function About() {
           <div class="col-lg-5 d-flex align-items-end" data-aos="fade-up" data-aos-delay="300">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+              Our menu is carefully crafted to offer a wide variety of options to satisfy any taste buds. From classic favorites to modern twists, we have something for everyone.
               </p>
               <ul>
-                <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bi bi-check2-all"></i> Don't forget to save room for dessert! Our decadent desserts are the perfect way to end your meal. </li>
+                <li><i class="bi bi-check2-all"></i> We also offer a great selection of wines, cocktails, and beers to complement your meal.</li>
+                <li><i class="bi bi-check2-all"></i> We believe that dining out should be an experience, not just a meal. That's why we strive to create a warm and inviting atmosphere that makes you feel right at home..</li>
               </ul>
               <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+              Our menu is carefully crafted to offer a wide variety of options to satisfy any taste buds. From classic favorites to modern twists, we have something for everyone.Thank you for considering our restaurant for your next meal. We look forward to welcoming you soon!
               </p>
 
               <div class="position-relative mt-4">
